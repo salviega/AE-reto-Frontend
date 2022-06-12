@@ -1,27 +1,30 @@
-# RetoSofka
+# Aplicación Empresarial: reto - ciclo 2
+Realizado por: Daniel Granados y Santiago Viana
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+## Temario
 
-## Development server
+* consumo del backend
+* Uso adecuado de rutas
+* Logueo usuario/contraseña
+* Autenticación de Gmail
+* Restablecer contraseña
+* Sistema para calificación de las respuestas
+* Uso adecuado de Observable en Angular
+* Sistema de notificación por E-mail
+* Scroll infinito de respuestas
+* Uso de algún frameworks o preprocesador CSS (Sass)
+* Uso de Swagger 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Puntos en parcial
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Editar respuestas -> No se cuenta con historial de respuestas
+* Implementar JWT -> Solo front-end
 
-## Build
+## URI Back-end heroku
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Https
 
-## Running unit tests
+## URI Front-end Firabase
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Https
